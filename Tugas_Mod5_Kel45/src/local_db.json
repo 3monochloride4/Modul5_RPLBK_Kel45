@@ -1,0 +1,84 @@
+{
+	"data" : [
+	{
+		"id" : 1,
+		"gambar" : "https://img-global.cpcdn.com/recipes/72eb3c9ef81b98ea/751x532cq70/mie-goreng-bakso-foto-resep-utama.jpg",
+		"nama" : "Mie Goreng Bakso",
+		"harga" : "15000",
+		"stok" : "20",
+        "deskripsi": "Mie olahan sendiri yang digoreng dengan bakso 100% daging asli"
+	},
+	{
+		"id" : 2,
+		"gambar" : "https://img.okezone.com/content/2020/08/23/320/2266049/peluang-bisnis-bakso-dari-kaki-lima-hingga-masuk-restoran-mewah-XTxmobji5t.jpg",
+		"nama" : "Bakso",
+		"harga" : "10000",
+		"stok" : "40",
+        "deskripsi": "Bakso 100% daging asli dengan kuah yang diracik dengan bumbu spesial kami"
+	},
+	{
+		"id" : 3,
+		"gambar" : "https://img-global.cpcdn.com/recipes/edd32b24d7ee40d9/751x532cq70/nasi-goreng-bakso-foto-resep-utama.jpg",
+		"nama" : "Nasi Goreng Bakso",
+		"harga" : "8000",
+		"stok" : "10",
+        "deskripsi": "Nasi goreng yang dimasak bersama dengan bakso bagi anda yang tidak bisa memilih antara nasi goreng atau bakso"
+	},
+	{
+		"id" : 4,
+		"gambar" : "https://asset.kompas.com/crops/9TrbfycbiFB9YB1l2xmzYQR5srQ=/0x342:837x900/750x500/data/photo/2021/01/29/60137f833d1b4.jpg",
+		"nama" : "Semur Sapi",
+		"harga" : "11000",
+		"stok" : "12",
+        "deskripsi": "Semur sapi yang diolah khusus dengan bumbu turun-temurun sehingga rasanya tetap terjaga dari waktu ke waktu"
+	},
+	{
+		"id" : 5,
+		"gambar" : "https://www.resepistimewa.com/wp-content/uploads/sate-ayam.jpg",
+		"nama" : "Sate Ayam",
+		"harga" : "10000",
+		"stok" : "30",
+        "deskripsi": "Sate dengan daging dan kulit ayam"
+	},
+	{
+		"id" : 6,
+		"gambar" : "https://cdn.yummy.co.id/content-images/images/20200508/b9v4nSJNmey5WB5UUrMzVmTr5Nejacq9-31353838393331353330d41d8cd98f00b204e9800998ecf8427e_800x800.jpg",
+		"nama" : "Lele Bakar",
+		"harga" : "10000",
+		"stok" : "71",
+        "deskripsi": "Lele bakar dengan bumbu rempah dan sambal khas kami"
+	},
+	{
+		"id" : 7,
+		"gambar" : "https://asset.kompas.com/crops/y8jlET9Zwl-5iykdc5t58sS-_KY=/0x52:1000x719/750x500/data/photo/2020/07/14/5f0d253a6edd5.jpg",
+		"nama" : "Bebek Goreng",
+		"harga" : "30000",
+		"stok" : "4",
+        "deskripsi": "Bebek goreng dengan remahan krenyes"
+	},
+	{
+		"id" : 8,
+		"gambar" : "https://cdn-2.tstatic.net/travel/foto/bank/images/sate-kelinci-pak-kenthus-bandungan-semarang.jpg",
+		"nama" : "Sate Kelinci",
+		"harga" : "25000",
+		"stok" : "42",
+        "deskripsi": "Menu baru kami, sate kelinci dengan cita rasa daging yang lembut dan bumbu kacang yang gurih"
+	},
+	{
+		"id" : 9,
+		"gambar" : "https://piknikdong.com/wp-content/uploads/2020/05/Resep-Soto-Ayam-Enak-dan-Mudah.jpg",
+		"nama" : "Soto Ayam",
+		"harga" : "15000",
+		"stok" : "9",
+        "deskripsi": "Soto ayam dengan campuran kaldu dan jeruk nipis, cocok untuk menghangatkan badan di hari yang dingin"
+	},
+	{
+		"id" : 10,
+		"gambar" : "https://tastynesia.com/wp-content/uploads/2020/06/Resep-Sate-Kambing-Empuk-1200x799.jpg",
+		"nama" : "Sate Kambing",
+		"harga" : "25000",
+		"stok" : "11",
+        "deskripsi": "Sate kambing bakar dengan bumbu kecap dan rempah"
+	}
+	]
+}
